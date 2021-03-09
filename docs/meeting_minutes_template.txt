@@ -1,0 +1,22 @@
+Attendance:
+
+Location:
+
+Time: 
+
+Agenda:
+1.
+2.
+3.
+
+Post Meeting Action Items:
+1.
+2.
+3.
+
+Decision Made:
+1.
+2.
+3.
+
+Next Meeting:  <Location> <DateTime>
