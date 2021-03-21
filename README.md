@@ -1,5 +1,6 @@
+**Changelog**
 SPRINT 1
 
-- project background
+- project overview
 
 - requirements elicitation technique
