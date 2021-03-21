@@ -1,4 +1,5 @@
-**Changelog**  
+**Changelog**
+
 SPRINT 1
 
 - project overview
