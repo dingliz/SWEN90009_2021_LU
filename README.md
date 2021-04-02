@@ -5,14 +5,14 @@ This project is about developing a web interface for the Creative Learning Unit 
 This repository stores the outputs of each sprint and shares them with the client. It keeps the history of the developing process and allows the client track the progress conveniently.
 
 ## Table of Contents
-* [Requirement](../docs)
-* [Test](../tests)
-* [Prototypes](../prototypes)
-* [UI](../ui)
-* [Data Samples](../data%20samples)
+* [Requirement](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs)
+* [Test](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/tests)
+* [Prototypes](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/prototypes)
+* [UI](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/ui)
+* [Data Samples](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/data%20samples)
 ### Requirement
-* [Project Overview](../docs/Project%20Overview.pdf)
-* [Requirement Elicitation](../docs/Requirement%20Elicitation)
+* [Project Overview](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Project%20Overview.pdf)
+* [Requirement Elicitation](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Requirements%20Elicitation.pdf)
 
 ## Changelog
 ### SPRINT 1
