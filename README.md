@@ -14,12 +14,8 @@ This repository stores the outputs of each sprint and shares them with the clien
 * [Project Overview](../docs/Project%20Overview.pdf)
 * [Requirement Elicitation](../docs/Requirement%20Elicitation)
 
-
 ## Changelog
----
-SPRINT 1
+### SPRINT 1
 SWEN90009_2021_LU_Wombat_BL_1.0.0
-
-- create project overview (SWEN90009_2021_LU/docs/Specifications/Project Overview.pdf)
-
-- create requirements elicitation technique (SWEN90009_2021_LU/docs/Specifications/Requirements 
+- create project overview
+- create requirements elicitation technique
