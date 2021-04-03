@@ -1,0 +1,74 @@
+Interview 3
+
+Attendance:
+Dingli Zhao, Hao Xiang Wang, Yichen Jiao, David Chen, Jizhou Wei
+
+Location:
+Zoom
+
+Time: 
+31/04/2021 3:30pm - 4:00pm
+
+Agenda:
+1. 
+Q: Apart from the professor, high school teacher, young student teacher, what other type of teacher(user) can you think of?	
+A: Primary school teacher, kindergarten/early childhood teacher.
+
+2.
+Q: How long do you expect to create a learning unit?	
+A: Creating a learning unit is not simple, it take quite a while to make. It depends. Some people might take a long break during the creation and come back working on it later.
+
+3. 
+Q: Can you clarify the "Simple" keyword mentioned in the previous meeting? "Simple" seems to contradict the fact that creating a learning unit is complicated	
+A: What's important is not the simplicity, it's the clarity. Users should have a clear picture of what stage they are currently at, and what the next stage is.
+The framework should be clear to the users on how to it, if something is not clear, users rather change app instead of figuring out the problem 
+
+4.
+Q: How do users hear about the system?	
+A: Word of mouth, like online shopping
+Publications
+Teaching changes slowly
+
+5.
+Q: Motivation for users	
+A: Not all students want to be in class, especially in primary/secondary schools
+Solve student engagement
+Want to know about what are the ways of teaching, how to teach better to engage students
+How to engage students to study STEM fields
+
+6.
+Q: What is the targeted user group?	
+A: Should aim for the lowest common denominator(users from age 18 to 90)
+Have a difference in the ability of understanding and the vocabulary. there should not have many hurdles
+
+7.
+Q: What do you expect users' knowledge about CLU?	
+A: Most of them are new to CLU. They learn it while using the tool. the majority of learning resources should be obtained from the website. there should not be something they do not understand
+
+8.
+Q: How do you expect the designing process to differentiate based on different users? 	
+A: The process is always the same, but clients and content are different
+The designed unit should be simple to read and understand by other teachers/educators
+
+9.
+Q: How would you like the system to be designed?	
+A: Homepage for displaying all sections of the learning unit and all processes of designing
+Users can navigate freely between different sections(previous and future)
+Generic example templates readily provided for various kinds of teachers(early childhood/primary school/high school teachers) so that users can tick boxes for what they are looking for
+Suggestions and example within the template will also change accordingly
+For users who familiar with the CLU, the system should not force them to watch tutorials or learn
+
+10.
+Q: What do you think the system can do to maintain the motivation of users	
+A: Sample learning units to show them what could be achieved
+Explanations of the thinking required to step through the system
+Pop up text boxes with suggestions, guidelines etc. to help users better understand
+Suggestions in textboxes can be deleted or "click and see"
+
+Post Meeting Action Items:
+1. Update do/be/feel table and motivational model
+2. Update persona
+
+Next Meeting: 
+Zoom
+14/04/2021
