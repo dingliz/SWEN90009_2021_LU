@@ -10,8 +10,61 @@ Time:
 17/03/2021 3:30pm - 4:00pm
 
 Agenda:
-1. The question of background.
-2. The question of requirement elicitation.
+1. Question about project background:
+
+Q1:
+verify our understanding of the project details.
+A1:
+CLU is a framework that can:
+- provide a richer learning experience than rope learning.
+- let teachers think about the end goal of education.
+- let teachers think about the teaching target while they are designing the curriculum.
+
+Q2:
+How does the 3D concept relate to the project?
+A2:
+The goal of the project is to design a web interface that can help teachers take the 3D model(who/how/what) into consideration when they are designing learning units.
+
+Q3:
+How do the forward design and backward design processes relate to the product?
+A3:
+Forward/backward design is the foundation of CLU, while CLU combines them and add the third dimension, "who," into the design concept.
+
+Q4:
+Can you give an example of the ideal human experience in interacting with the product?
+A4:
+Design units keeping in mind who the learner/student is. (e.g. who a year 8s in boys school vs  year 12s in coed school)
+
+
+2. Questions about requirement elicitation:
+
+Q1:
+Who would the system help/ Who is it for?
+A1:
+Teachers/educators who are designing learning units for students/researchers/anyone related to academic.
+
+Q2:
+What do you think the product should do?
+A2:
+acts as a tutorial to step teachers through the process of engaging with students and setting up the different way of designing units.
+allows teachers to talk through the platform via BBS/direct messaging.
+allows monetisation of learning units.
+creates repositories of creative learning units where other people can search for and use as examples or actual use.
+
+Q3:
+What is the existing system of learning?
+A3:
+Teachers manually fill in word documents to decide who is involved in learning, what goal to achieve and how to teach the unit.
+
+Q4:
+What will the product ideal be? (mobile/desktop/web)
+A4:
+A web interface for teachers to design a unit of work (term, class, semester)
+
+Q5:
+How would someone feel when using the product?
+A5:
+supported, informative, helpful
 
 Post Meeting Action Items:
 1. Arrange the next meeting with the client.
@@ -19,4 +72,4 @@ Post Meeting Action Items:
 
 Next Meeting: 
 Zoom
-24/04/2021
+24/03/2021
