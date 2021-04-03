@@ -1,0 +1,64 @@
+Interview 2
+
+Attendance:
+Dingli Zhao, Hao Xiang Wang, Yichen Jiao, David Chen, Jizhou Wei
+
+Location:
+Zoom
+
+Time: 
+24/04/2021 3:30pm - 4:00pm
+
+Agenda:
+1. Do
+be able to download it in a document or such to share
+Privacy - i choose what i share, who its shared to etc.
+clear ownership - who has contributed? who owns the learning unit?
+collective ownership? everyone makes decisions for a learning unit
+some sort of motivation for sharing learning units
+something like a google document for collaborating - comments on the sections etc.
+brainstorming, playing with ideas - site should help them to do this - help them through a thinking process
+be able to revisit previous pages and edit
+be able to separate the creation into several sections and download partly in milestones
+edit previously created units and "save as" a new one
+ inquiry/question based 
+webpage should provide template tables in the document "Quay Creative Learning Units SWEN90009" and the guidelines of editing them
+the website should guide users go through the process to the final output
+have interaction between pages. the content in previous pages can occur on the later page in some structure
+when edit previous pages, the content in later pages will change synchronously.
+
+2. Who
+Moderation → Moderators for public content/sharings?
+Age → uni students to retirement age (PLT)
+Feature → may be good at or not good at (have experience or not on) operating websites
+
+3. Be
+Inviting
+Not too formal/technical
+Playful but Professional
+Helpful
+Powerful
+Supportive (the most important)
+Simple → Not Complex
+learning quickly
+
+4. Feel
+Supported
+No Hurdles
+Rewarded/Congratulated
+Informed (about time, steps, length etc.)
+In Control (of all the steps) 
+
+5. Concerns
+Does not draw users in to use it
+Difficult to use
+Too complex
+Does not provide a constructor for the CLU Framework
+
+Post Meeting Action Items:
+1. Build the motivational model based on the do/be/feel table.
+2. Build personas based on the motivational model.
+
+Next Meeting: 
+Zoom
+31/03/2021
