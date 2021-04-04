@@ -16,6 +16,11 @@ This repository stores the outputs of each sprint and shares them with the clien
 
 ## Changelog
 ### SPRINT 1
-SWEN90009_2021_LU_Wombat_BL_1.0.0
+SWEN90009_2021_LU_Wombat_BL_SPRINT1
 - create project overview
 - create requirements elicitation technique
+### SPRINT 2
+SWEN90009_2021_LU_Wombat_BL_SPRINT2
+- create motivational model
+- create personas
+- update meeting minutes
