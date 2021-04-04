@@ -10,10 +10,12 @@ This repository stores the outputs of each sprint and shares them with the clien
 * [Prototypes](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/prototypes)
 * [UI](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/ui)
 * [Data Samples](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/data%20samples)
+* [Meeting Minutes](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs/Meetings)
 ### Requirement
 * [Project Overview](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Project%20Overview.pdf)
 * [Requirement Elicitation](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Requirements%20Elicitation.pdf)
-
+* [Motivational Model](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Motivational%20Model.pdf)
+* [Personas](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs/Specifications/Personas)
 ## Changelog
 ### SPRINT 1
 SWEN90009_2021_LU_Wombat_BL_SPRINT1
