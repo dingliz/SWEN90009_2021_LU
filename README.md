@@ -16,6 +16,9 @@ This repository stores the outputs of each sprint and shares them with the clien
 * [Requirement Elicitation](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Requirements%20Elicitation.pdf)
 * [Motivational Model](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Motivational%20Model.pdf)
 * [Personas](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs/Specifications/Personas)
+* [User Stories](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/User%20Stories.pdf)
+### Prototypes
+* [Paper Prototype](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/prototypes/low%20fidelity)
 ## Changelog
 ### SPRINT 1
 SWEN90009_2021_LU_Wombat_BL_SPRINT1
