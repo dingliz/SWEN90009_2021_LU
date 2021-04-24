@@ -26,3 +26,8 @@ SWEN90009_2021_LU_Wombat_BL_SPRINT2
 - create motivational model
 - create personas
 - update meeting minutes
+### SPRINT 3
+SWEN90009_2021_LU_Wombat_BL_SPRINT3
+- create user stories
+- create document of paper prototype
+- upload the video of paper prototype
