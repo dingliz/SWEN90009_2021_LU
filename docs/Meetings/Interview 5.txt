@@ -1,0 +1,45 @@
+Interview 5
+Attendance:
+Dingli Zhao, Hao Xiang Wang, Yichen Jiao, David Chen, Jizhou Wei
+
+Location:
+Zoom
+
+Time: 
+21/03/2021 3:30pm - 4:00pm
+
+Agenda: 
+Paper prototype user scenarios and feedback
+
+User scenario 1: Please try to find a tutorial that could assist in helping you understand the CLU Framework
+Obervations on user actions: 
+	- The user saw the sample learning units and CLU knowledge videos on the homepage. However, when he clicked on these objects, he found that there was no reaction.
+	- The user took a while to find the tutorial section on the left even with the tutorial section button highlighted.
+Reflection from user:
+	- The sample learning units and knowledge videos should be linked to the Tutorial section. What you see what you get.
+	- The font size of the left-hand menu should be larger, and the Tutorial section should be prioritized.
+
+User scenario 2: Please try to create a learning unit for, let's say, year 12 students studying chemistry.
+Obervations on user actions: 
+	- After the user has finished the "initialize" step, he got stuck in phase 1. He got confused about what the next step should be even with the button highlighted.
+	- The user expressed his ideas about the "shared problem" and "shared purpose" in the "initialize" step that these two sections should be put further down in the production line.
+	- The user thought that the "who", "how," and "what" questions are missing.
+Reflection from user:
+	- There are too many buttons on the "create learning unit" page, which might be overwhelming for the users.
+	- The layout should be adjusted to be better organized. Each phase could be divided into more microsections to help the user focus on a specific task.
+
+User scenario 3: Please try to invite a friend to collaborate on your project..
+Obervations on user actions: 
+	- The client got confused when choosing between the "start" and "share" buttons. He did not know which one should be clicked first.
+	- After the client pressed the "start" button to go to the next stage, he could not find the "share" function anymore. So he could only go back to the previous page to use the "share" function.
+	- After the client finished the "share" process, he could not see any sign on the page indicating that someone has started collaboration in the project.
+Reflection from user:
+	- The share button should be placed throughout the whole process so that users can invite others to collaborate at any time.
+	- There should be a notification/sign on the page showing that someone has joined the unit to collaborate with them.
+
+Post Meeting Action Items:
+1. Paper prototype.
+
+Next Meeting: 
+Zoom
+28/04/2021

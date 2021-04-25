@@ -1,0 +1,59 @@
+Interview 4
+
+Attendance:
+Dingli Zhao, Hao Xiang Wang, Yichen Jiao, David Chen, Jizhou Wei
+
+Location:
+Zoom
+
+Time: 
+14/03/2021 3:30pm - 4:00pm
+
+Agenda:
+Part 1: To get feedback from our client on the user stories, and give the priority to each of them.
+
+User Story 1: As a teacher, I want to be able to create learning units using the creative leaning units template so that teachers can better teach subjects to their students.
+Priority: must have
+
+User Story 2: As a teacher, I want to be able to edit my existing learning units so that they are always up to date and without errors.
+Priority: should have
+
+User Story 3: As a teacher, I want to be able to download my learning unit so that I can have a hard-copy to share with other people in real life.
+Priority: should have
+
+User Story 4: As a teacher, I want to be rewarded for my contributions to a course with either recognition or money so that I have motivation to return and create more courses.
+Priority: could have
+
+User Story 5: As a teacher, I want to be able to collaborate with other people in creating learning units so that I can have online help when I design my courses.
+Priority: must have
+
+User Story 6: As a experienced course designer, I want to be able to moderate my work and other people's work and other people's work so that the application's community remains profession.
+Priority: should have
+
+User Story 7: As a teacher, I want to be able to give feedback to other people's learning units so that the quality of these learning units will increase.
+Priority:  should have
+
+User Story 8: As a user, I want to be able to browse other people's learning units so that I can discover quality learning units which I can interact with.
+Priority: should have
+
+User Story 9: As a course designer, I want to be able to manage the permissions and ownership of my learning units, so that I can control who can help me build my learning units.
+Priority: must have
+
+User Story 10: As a new user, I want to be guided through the process of creating a creative learning units so that I can create learning units using the CLU framework on the website.
+Priority: must have
+
+
+Part 2: Feedback from client on motivational model
+1. Login system will be important to identify users. Different suggestion can be given depending on what sort of teacher the user is. It can be used to find out what sort of teachers are using the site.
+2. There should be a page showing all stages of CLU creation.
+3. For milestone for CLU completion, because the process is not such that once one stage has been completed, the user will never have to come back to that stage, therefore there should not be stages marked as completed.
+4. The guidance and template of CLUs should be same for all users, the sample text may be different.
+5. Casual users can be interested for guidance and tutorials on how to use the entire system
+
+Post Meeting Action Items:
+1. Update user stories
+2. Update motivational model.
+
+Next Meeting: 
+Zoom
+21/04/2021
