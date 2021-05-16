@@ -1,0 +1,32 @@
+Interview 6
+Attendance:
+Dingli Zhao, Hao Xiang Wang, Yichen Jiao, David Chen, Jizhou Wei
+
+Location:
+Zoom
+
+Time: 
+28/04/2021 3:30pm - 4:00pm
+
+Agenda: 
+Q:
+What exactly do you mean when you say that each part of the system should affect another during creation?
+A:
+- Put yourself in position of a teacher
+- Bringing the end goal together to the final goal is the final product
+	Example of product and the problem: Examination is a product, the problem is linked to achieve to achieving high marks on the examination
+- Who? - Think about broad interests that cater to the whos
+	When creating the learning unit, capture the future aspirations of the whos instead.
+- Could just put the different sections side by side, thinking about how these areas are connected via activities to give rise to the shared problem, the purpose and the product
+- There could be search functionality for public units based on subcomponents of the phases.
+- Popup boxes when hovering over sections of text 
+- Short videos
+
+
+
+Post Meeting Action Items:
+1. Paper prototype.
+
+Next Meeting: 
+Zoom
+12/05/2021
