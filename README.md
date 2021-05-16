@@ -19,6 +19,12 @@ This repository stores the outputs of each sprint and shares them with the clien
 * [User Stories](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/User%20Stories.pdf)
 ### Prototypes
 * [Paper Prototype](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/prototypes/low%20fidelity)
+* [Mood Board](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/prototypes/Moodboard.pdf)
+* [Digital Prototype](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/prototypes/high%20fidelity)
+* [Digital Prototype Preview Link](https://l2lpj3.axshare.com)
+### Test
+* [Acceptance Criterion & Acceptance Testings](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/tests/Acceptance%20Criterion%20and%20Testing.pdf)
+* [Requirement Traceability Matrix](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/tests/Requirement%20Traceability%20Matrix.pdf)
 ## Changelog
 ### SPRINT 1
 SWEN90009_2021_LU_Wombat_BL_SPRINT1
@@ -34,3 +40,10 @@ SWEN90009_2021_LU_Wombat_BL_SPRINT3
 - create user stories
 - create document of paper prototype
 - upload the video of paper prototype
+### SPRINT 4
+SWEN90009_2021_LU_Wombat_BL_SPRINT4
+- create digital prototype
+- create moodboard
+- create acceptance criterion and accptance testings
+- create requirement tracebility matrix
+- uploaded data samples
