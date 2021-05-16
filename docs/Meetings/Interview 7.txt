@@ -1,0 +1,25 @@
+Interview 7
+Attendance:
+Dingli Zhao, Hao Xiang Wang, Yichen Jiao, David Chen, Jizhou Wei
+
+Location:
+Zoom
+
+Time: 
+12/05/2021 3:30pm - 4:00pm
+
+Agenda: 
+Go through early HiFi Prototype
+
+Feedback from client:
+- Collaboration: Want to be able to report comments to moderators.
+- Brown colour is a bit "boring", maybe use blue later?
+- Include examples in "quickly typein".
+- Collaboration: sort by multiple tags
+- Good that only owner should be able to remove different people
+- There should be a manager role for a project?
+- Project manager instead of project owner
+- Also include sub-managers
+
+Post Meeting Action Items:
+1. Digital prototype.
