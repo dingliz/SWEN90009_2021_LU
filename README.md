@@ -4,6 +4,8 @@ This project is about developing a web interface for the Creative Learning Unit 
 
 This repository stores the outputs of each sprint and shares them with the client. It keeps the history of the developing process and allows the client track the progress conveniently.
 
+If you do not understand a part of the project please click [here](##Decriptions of Work)
+
 ## Table of Contents
 * [Requirement](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs)
 * [Test](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/tests)
@@ -25,6 +27,10 @@ This repository stores the outputs of each sprint and shares them with the clien
 ### Test
 * [Acceptance Criterion & Acceptance Testings](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/tests/Acceptance%20Criterion%20and%20Testing.pdf)
 * [Requirement Traceability Matrix](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/tests/Requirement%20Traceability%20Matrix.pdf)
+
+##Decriptions of Work
+
+
 ## Changelog
 ### SPRINT 1
 SWEN90009_2021_LU_Wombat_BL_SPRINT1
