@@ -4,32 +4,59 @@ This project is about developing a web interface for the Creative Learning Unit 
 
 This repository stores the outputs of each sprint and shares them with the client. It keeps the history of the developing process and allows the client track the progress conveniently.
 
-If you do not understand a part of the project please click [here](#decriptions-of-work)
-
 ## Table of Contents
-* [Requirement](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs)
-* [Test](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/tests)
-* [Prototypes](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/prototypes)
-* [UI](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/ui)
-* [Data Samples](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/data%20samples)
-* [Meeting Minutes](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs/Meetings)
+* [Requirements](#requirements)
+* [Prototypes](#prototypes)
+* [UI](#ui)
+* [Data Samples](#data-samples)
+* [Meeting Minutes](#meeting-minutes)
 ### Requirement
-* [Project Overview](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Project%20Overview.pdf)
-* [Requirement Elicitation](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Requirements%20Elicitation.pdf)
-* [Motivational Model](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Motivational%20Model.pdf)
-* [Personas](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs/Specifications/Personas)
-* [User Stories](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/User%20Stories.pdf)
+* [Project Overview](#project-overview)
+* [Requirement Elicitation](#requirements-elicitation)
+* [Motivational Model](#motivational-model)
+* [Personas](#personas)
+* [User Stories](#user-stories)
 ### Prototypes
-* [Paper Prototype](https://github.com/dingliz/SWEN90009_2021_LU/tree/main/prototypes/low%20fidelity)
-* [Mood Board](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/prototypes/Moodboard.pdf)
-* [Digital Prototype](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/prototypes/high%20fidelity)
-* [Digital Prototype Preview Link](https://l2lpj3.axshare.com)
+* [Paper Prototype](#paper-prototype)
+* [Mood Board](#moodboard)
+* [Digital Prototype](#digital-prototype)
 ### Test
-* [Acceptance Criterion & Acceptance Testings](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/tests/Acceptance%20Criterion%20and%20Testing.pdf)
-* [Requirement Traceability Matrix](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/tests/Requirement%20Traceability%20Matrix.pdf)
+* [Acceptance Criteria and Tests](#acceptance-criteria-and-tests)
+* [Traceability Matrix](#requirements-traceability-matrix)
 
 ## Decriptions of work
-Hello
+
+### Requirements
+https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs
+### Prototypes
+https://github.com/dingliz/SWEN90009_2021_LU/tree/main/prototypes
+### UI
+https://github.com/dingliz/SWEN90009_2021_LU/tree/main/ui
+### Data Samples
+https://github.com/dingliz/SWEN90009_2021_LU/tree/main/data%20samples
+### Meeting Minutes
+https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs/Meetings
+### Project Overview
+https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Project%20Overview.pdf
+### Requirement Elicitation
+https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Requirements%20Elicitation.pdf
+### Motivational Model
+https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/Motivational%20Model.pdf
+### Personas
+https://github.com/dingliz/SWEN90009_2021_LU/tree/main/docs/Specifications/Personas
+### User Stories
+https://github.com/dingliz/SWEN90009_2021_LU/blob/main/docs/Specifications/User%20Stories.pdf
+### Paper Prototype
+https://github.com/dingliz/SWEN90009_2021_LU/tree/main/prototypes/low%20fidelity
+### MoodBoard
+https://github.com/dingliz/SWEN90009_2021_LU/blob/main/prototypes/Moodboard.pdf
+### Digital Prototype
+https://github.com/dingliz/SWEN90009_2021_LU/blob/main/prototypes/high%20fidelity
+https://l2lpj3.axshare.com
+### Acceptance Criteria and Tests
+https://github.com/dingliz/SWEN90009_2021_LU/tree/main/tests
+### Requirements Traceability Matrix
+https://github.com/dingliz/SWEN90009_2021_LU/blob/main/tests/Requirement%20Traceability%20Matrix.pdf
 
 ## Changelog
 ### SPRINT 1
