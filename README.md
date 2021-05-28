@@ -28,22 +28,41 @@ This repository stores the outputs of each sprint and shares them with the clien
 ## Changelog
 ### SPRINT 1
 SWEN90009_2021_LU_Wombat_BL_SPRINT1
-- create project overview
-- create requirements elicitation technique
+#### Create project overview
+The project overview briefly describes the purpose of the project to any reader, and should provide them with enough understanding of the context behind the project so they have a basic idea of what the project itself entails
+
+#### Decide of Requirements Eliciation Techniques
+Requirements elicitation techniques involve the way information regarding the requirements are supposed to be obtained. This was mainly done through interviewing the client.
+
 ### SPRINT 2
 SWEN90009_2021_LU_Wombat_BL_SPRINT2
-- create motivational model
-- create personas
-- update meeting minutes
+#### Create motivational model
+The motivational model describes the motivations of the users to use the end product
+
+#### Create personas
+Personas are representations of real users on the end-product. They contain information pertaining to the motivations behind these users to use the product itself.
+
 ### SPRINT 3
 SWEN90009_2021_LU_Wombat_BL_SPRINT3
-- create user stories
-- create document of paper prototype
-- upload the video of paper prototype
+#### Create user stories
+User stories are concrete representation for the end product and its features. They encapsulate what the users should be able to do on the product.
+
+#### Created paper prototype
+Paper prototypes are supposed to be low fidelity imitations of the system, used to evaluate basic designs for the UI.
+
 ### SPRINT 4
 SWEN90009_2021_LU_Wombat_BL_SPRINT4
-- create digital prototype
-- create moodboard
-- create acceptance criterion and accptance testings
-- create requirement tracebility matrix
-- uploaded data samples
+#### Create digital prototype
+The digital prototype is a imitation of the real product, used for usability tests and gathering information from the client about the end product.
+
+#### Create moodboard
+Moodboards describe the "feel" of the design of the project itself. It contains images and similar materials which are used to determine what the application looks like.
+
+#### Create acceptance criterion and acceptance tests
+Acceptance criteria are the pieces of information describing what must be achieved in order for a user story to be marked as "finished" during development. Accpetance tests therefore describe a set of steps used to determine if an acceptance criteria has been achieved.
+
+#### Create requirement tracebility matrix
+The traceability matrix involves formulating a grid which explains which user stories/acceptance criteria correspond to which tests in the end-product.
+
+#### Uploaded data samples
+Data samples are examples of real-world data which are supposed to be used within the system itself, to represent what information the system is supposed to take under execution.
