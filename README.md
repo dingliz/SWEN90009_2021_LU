@@ -85,6 +85,14 @@ Moodboards describe the "feel" of the design of the project itself. It contains 
 ### Digital Prototype
 Click [here](https://github.com/dingliz/SWEN90009_2021_LU/blob/main/prototypes/high%20fidelity) to access the Axure files used in the development of the prototype.
 Click [here](https://l2lpj3.axshare.com) to access an online version of the prototype.
+Login details:
+Normal User:
+Username: johndoe@email.com
+Password: 123456
+
+Moderator:
+Username: admin@email.com
+Password: 123456
 
 The digital prototype is an imitation of the real product, used for usability tests and gathering information from the client about the end product.
 
